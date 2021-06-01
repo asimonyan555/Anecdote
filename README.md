@@ -1,2 +1,2 @@
 # anecdote
-Have some fun
+Have some fun updated funny stories
